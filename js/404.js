@@ -4,7 +4,7 @@ var bigs = ["00454ace8b4c7ccc1e9ad63ad453b32b.jpg", "0420191534b.jpg", "09g79tgy
 
 function FBI() {
 
-	path = '/img/404/back/'; // default path here
+	path = '/img/404/'; // default path here
     var num = Math.floor( Math.random() * backs.length );
     var img = backs[ num ];
     var imgStr = path + img;
@@ -14,7 +14,7 @@ function FBI() {
 
 function chBig() {
 
-	path = '/img/404/big/'; // default path here
+	path = '/img/404/'; // default path here
     var num = Math.floor( Math.random() * bigs.length );
     var img = bigs[ num ];
     var imgStr = path + img;
