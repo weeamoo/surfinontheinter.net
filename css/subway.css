@@ -1,0 +1,95 @@
+html {
+	height: 100%;
+}
+
+body {
+	background-color: black;
+	margin: 0px;
+}
+
+div#tScreen1, div#tScreen2, div#tScreen3 {
+	height: 100%;
+	width: 100%;
+	display: block;
+	position: absolute;
+	bottom: 0px;
+}
+
+div#tScreen2 {
+	left: 1920px;
+}
+
+
+div#tScreen3 {
+	left: 3840px;
+}
+
+table#tTable {
+	position: absolute;
+	bottom: 0px;
+}
+
+img#tTableCellImg {
+	height: 128px;
+	width: 128px;
+}
+
+img#carImg, img#carDoorImg {
+	height: 128px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	/*trying to move car with div */
+}
+
+div#carDiv {
+	position: absolute;
+	bottom: 448px;
+	left: 640px;
+}
+
+td#tTableCell {
+	padding: 0px;
+	height: 128px;
+	width: 128px;
+}
+
+/* controls */
+
+div#controlsDiv {
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: 3px;
+	border-bottom-width: 0px;
+	height: 128px;
+	width: 80%;
+	bottom: 0px;
+	left: 10%;
+	position: absolute;
+}
+
+table#rightControlTable {
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	height: 64px;
+}
+
+td#controlCell {
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: 1px;
+}
+
+p#controlButtonLabel, h1#controlButtonLabel, p#speedometer, p#speedLimitDisplay {
+	color: #FFFFFF;
+	margin: 0px;
+}
+
+img#controlButtonImg {
+	height: 115px;
+}
+
+input#brakeSlider {
+	height: 64px;
+}
