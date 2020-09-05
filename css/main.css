@@ -1,0 +1,183 @@
+body {
+	background-color: black;
+
+	cursor: url(http://surfinontheinter.net/img/myspace/miku1.cur), auto;
+}
+
+h1#title {
+	color: white;
+	text-align: center;
+}
+
+img#titleImg {
+	text-align: center;
+	display: block;
+	margin: auto;
+	width: 50%;
+}
+
+p#footer {
+	color: white;
+	margin: auto;
+	text-align: center;
+	margin-top: 5px;
+}
+
+img#bigImg {
+	width: 75%;
+	margin: auto;
+	display: block;
+}
+
+
+/* navigation pannel */
+div#navigation {
+	width: 400px;
+	margin: auto;
+}
+
+div#blogNavigation {
+	width: 75%;
+	margin: auto;
+}
+
+nav {
+	background-color: #0f0f0f;
+	height: 7.5%;
+	margin: auto;
+	text-align: center;
+	font-size: 30px;
+	padding: 5px;
+}
+
+a#anav {
+	font-size: 24px;
+	color: white
+	padding: 24px;
+}
+
+a#anava {
+	font-size: 24px;
+	color: white
+	padding: 24px;
+	background-color: black;
+}
+
+a#anav:link, a#anav:visited  {
+	color: #e0e0e0;
+	text-decoration: none;
+}
+
+h1#title:link, h1#title:visited  {
+	color: #e0e0e0;
+	text-decoration: none;
+}
+
+a#anav:hover, a#anav:acive {
+	color: #ffffff;
+}
+
+/*</navigation pannel> lol */
+
+/* Article Organization */
+
+div#articleContainer {
+	width: 100%;
+	margin: auto;
+	margin-top: 25px;
+	border: solid;
+	border-color: #505050;
+}
+
+div#articleHeader {
+	border-bottom: solid;
+	border-color: #505050;
+}
+
+h1#articleTitle {
+	color: white;
+	padding-left: 15px;
+	font-size: 32px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 15px;
+}
+
+h2#articleAuthor {
+	color: white;
+	font-size: 12px;
+	margin-top: 0;
+	margin-bottom: 5px;
+}
+
+h2#articleDate {
+	color: white;
+	font-size: 12px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+p#articleText {
+	color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+img#articleImgRight {
+	width: 400px;
+	float: left;
+	padding: 15px;
+}
+
+iframe#leftYT {
+	float: left;
+	margin: 15px;
+}
+
+td#articleTD {
+	vertical-align: top;
+}
+
+ul#articleUL {
+	color: white;
+}
+
+ol#articleOL {
+	color: white;
+}
+
+/* Block text div in articles */
+
+div#articleBlock {
+	border: solid;
+	border-color: #505050;
+	margin: 13px;
+	padding: 13px;
+	display: inline-block;
+}
+
+p#articleBlockTit{
+	text-align: center;
+	display: block;
+	color: white;
+	font-size: 36px;
+	font-weight: bold;
+}
+
+p#articleBlockEnd {
+	text-align: right;
+	font-style: italic;
+	color: white;
+}
+
+/* </Article Organization> */
+
+/* Article Embedding with iframe */
+
+iframe#articleEmbed {
+	width: 75%;
+	height: 1000px;
+	margin: auto;
+	margin-bottom: 5px;
+	display: block;
+}
