@@ -51,7 +51,7 @@ function physic () {
 
 //constants
 
-var drag = 0.0000001;
+var drag = 0.0001;
 
 var brakePower = 0.0001;
 
