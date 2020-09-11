@@ -1,0 +1,154 @@
+div {
+	color: #0f0;
+}
+
+svg {
+	color: #0f0;
+}
+
+body {
+	background-image: url('https://surfinontheinter.net/img/myspace/mikuback.jpg');
+}
+
+div#main {
+	background: transparent;
+}
+
+/* popup box */
+
+.cvphu_bgqc {
+	background: rgba(0, 0, 0, 0.8);
+}
+
+/* footer */
+
+.ic-app-footer {
+	border-top: 1px solid #0f0;
+}
+
+/* left pane */
+
+div.ic-app-header__main-navigation {
+	background-color: #000;
+}
+
+.ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
+	background: #111;
+	border-color: #0f0;
+	border-style: solid;
+	border-width: 1px;
+}
+
+/* Dashboard */
+
+div.large.ic-Dashboard-header__layout {
+	background-color: rgba(0, 0, 0, 0.8);
+	padding: 9px;
+	border-color: #0f0;
+	border-style: solid;
+}
+
+/* today button near */
+
+div.PlannerHeader-styles__root.PlannerHeader {
+	background: transparent;
+}
+
+svg.esvoZ_drOs {
+	color: #0f0;
+}
+
+/* today button */
+
+.eHiXd_eYmo:active, .eHiXd_eYmo:hover, a.eHiXd_eYmo:active, a.eHiXd_eYmo:hover, button.eHiXd_eYmo:active, button.eHiXd_eYmo:hover, button.eHiXd_eYmo[type="button"]:active, button.eHiXd_eYmo[type="button"]:hover, button.eHiXd_eYmo[type="reset"]:active, button.eHiXd_eYmo[type="reset"]:hover, button.eHiXd_eYmo[type="submit"]:active, button.eHiXd_eYmo[type="submit"]:hover {
+	background: #111;
+}
+
+button#planner-today-btn {
+	background-color: #000;
+	color: #0f0;
+	border-color: #0f0;
+}
+
+/* missing button */
+
+.bZMhq_bGBk {
+	background: transparent;
+}
+
+/* graded button */
+
+.bZMhq_ddES {
+	border-color: #0f0;
+}
+
+.bZMhq_ddES .bZMhq_eWKC {
+	color: #0f0;
+}
+
+/* dashboard score */
+
+.cjUyb_bGBk.cjUyb_bLsb, input.cjUyb_bGBk[type].cjUyb_bLsb {
+	color: #0f0;
+}
+
+/* not empty days */
+
+div.Day-styles__root.planner-day {
+	background-color: rgba(0, 0, 0, 0.8);
+	padding: 9px;
+	border-color: #0f0;
+	border-style: solid;
+}
+
+/* empty days */
+
+div.EmptyDays-styles__root.planner-empty-days {
+	background-color: rgba(0, 0, 0, 0.8);
+	padding: 9px;
+	border-color: #0f0;
+	border-style: solid;
+	padding-bottom: 0;
+}
+
+div.EmptyDays-styles__nothingPlannedContent {
+	background: transparent;
+}
+
+/* assignment checkboxes */
+
+span.yyQPt_cSXm {
+	background: transparent;
+	color: #0f0;
+	border-color: #0f0;
+}
+
+/*bell menu*/
+
+.fOyUs_fZwI, .fOyUs_kXoP {
+	background: #000;
+	color: #0f0;
+}
+
+.XBLto_ddES {
+	background: transparent;
+}
+
+.bdYPe_ddES {
+	color: #0f0;
+	line-height: 1;
+}
+
+div.fOyUs_bGBk.fOyUs_EMjX.dpCPB_caGd.eJkkQ_bEpV {
+	background: transparent;
+	color: #0f0;
+}
+
+div.Opportunity-styles__root {
+	color: #0f0;
+	background: transparent;
+}
+
+div.Opportunity-styles__oppName {
+	color: #0f0;
+}
