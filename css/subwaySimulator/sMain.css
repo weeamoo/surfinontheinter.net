@@ -1,0 +1,46 @@
+body
+{
+    position: fixed; 
+    overflow-y: scroll;
+    width: 100%;
+    height: 100%;
+}
+
+div#mainMenuDiv {
+	height: 100%;
+	width: 100%;
+	display: table;
+}
+
+div#titleDiv {
+	margin: auto;
+	vertical-align: middle;
+	height: 20%;
+	width: 20%;
+	display: table-cell;
+}
+
+h1#h1Title {
+	color: white;
+	font-size: 70px;
+	text-align: center;
+}
+
+h1#h1Go {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+
+h1#h1Splash {
+	color: yellow;
+	position: absolute;
+	font-size: 30px;
+	display: block;
+	float: none;
+	transform: rotate(-45deg);
+	width: 35%;
+	margin-left: 50%;
+	margin-bottom: 30%;
+
+}
