@@ -35,11 +35,16 @@ div.boxHead {
 }
 
 /*  pfp & bio section */
+/* main div */
 div.topLeft {
 	background-color: #137a7f;
 	border-radius: 25px;
 	padding-top: 0px;
 	margin-top: 15px;
+}
+/* pfp */
+img#avatar {
+	border-radius: 50%;
 }
 
 /* name */
