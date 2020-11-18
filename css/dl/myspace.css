@@ -40,6 +40,15 @@ table.short {
 	background-color: rgba(55, 59, 62, 0.9);
 }
 
+/* name */
+h2#name {
+	color: #e12885;
+	-webkit-text-stroke-width: 0.6px;
+	-webkit-text-stroke-color: #bec8d1;
+	background-color: rgba(55, 59, 62, 0.9);
+	text-align: center;
+}
+
 /* comment box stuff */
 /* outer box */
 div.box.comments {
