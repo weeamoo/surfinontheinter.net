@@ -34,10 +34,23 @@ div.boxHead {
 	background-color: rgba(55, 59, 62, 0.9);
 }
 
-/* pfp */
-img#avatar {
+/*  pfp & bio section */
+table.short {
 	border: 1px solid #137a7f;
 	background-color: rgba(55, 59, 62, 0.9);
+}
+
+/* comment box stuff */
+/* outer box */
+div.box.comments {
+	background: none;
+	border: none;
+}
+/* inner box */
+textarea#commentInput {
+	background-color: rgba(55, 59, 62, 0.9);
+	border: 1px solid #137a7f;
+	/* color: need color pallete; */
 }
 
 /* song player */
