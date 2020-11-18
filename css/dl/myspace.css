@@ -72,6 +72,11 @@ textarea#commentInput {
 	border: 1px solid #137a7f;
 	color: #e12885;
 }
+/* url box */
+div.url.box {
+	border: none;
+	background: transparent;
+}
 
 /* song player */
 div.songName {
