@@ -1,0 +1,60 @@
+/* background */
+body {
+	background-image: url("https://surfinontheinter.net/img/myspace/mikuback.jpg");
+	background-size: contain;
+	background-repeat: repeat;
+}
+
+/* cursor */
+body {
+	cursor: url(https://surfinontheinter.net/img/myspace/miku1.cur), auto;
+}
+
+/* header */
+div#header {
+	background-color: #137a7f;
+	color: #bec8d1;
+}
+
+/* nav menu */
+div#hSub {
+	background-color: #86cecb;
+	color: #bec8d1;
+}
+
+/* window head */
+div.boxHead {
+	background-color: #137a7f;
+	color: #bec8d1;
+}
+
+/* box class */
+.box {
+	border: 1px solid #137a7f;
+	background-color: rgba(55, 59, 62, 0.9);
+}
+
+/* pfp */
+img#avatar {
+	border: 1px solid #137a7f;
+	background-color: rgba(55, 59, 62, 0.9);
+}
+
+/* song player */
+div.songName {
+	background-color: #137a7f;
+	color: #bec8d1;
+}
+div.player.box {
+	background-color: #137a7f;
+}
+
+/*Miku Gender*/
+/* thx weebman & tom for tha hlp*/
+div#gender {
+	font-size: 0px;
+}
+div#gender::after {
+	content: "Vocaloid";
+	font-size: 15px;
+}
