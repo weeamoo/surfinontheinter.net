@@ -46,6 +46,11 @@ div.topLeft {
 img#avatar {
 	border-radius: 50%;
 }
+/* contact box */
+div.boxInfo.box {
+	border: none;
+	background: transparent;
+}
 
 /* name */
 h2#name {
