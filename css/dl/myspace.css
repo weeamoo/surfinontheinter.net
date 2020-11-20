@@ -46,7 +46,7 @@ div.boxHead {
 .box {
 	border: 1px solid var(--MikuDBlueSolid);
 	border-radius: 10px;
-	background-color: rgba(55, 59, 62, 0.9);
+	background-color: var(--MikuGreyTrans);
 }
 
 /*  pfp & bio section */
@@ -83,7 +83,7 @@ div.box.comments {
 }
 /* inner box */
 textarea#commentInput {
-	background-color: rgba(55, 59, 62, 0.9);
+	background-color: var(--MikuGreyTrans);
 	border: 1px solid var(--MikuDBlueSolid);
 	color: var(--MikuMagentaSolid);
 }
