@@ -1,3 +1,12 @@
+/* color vars */
+:root {
+	--MikuGreySolid: #373b3e;
+	--MikuWhiteSolid: #bec8d1;
+	--MikuLBlueSolid: #86cecb;
+	--MikuDBlueSolid: #137a7f;
+	--MikuMagentaSolid: #e12885;
+}
+
 /* background */
 body {
 	background-image: url("https://surfinontheinter.net/img/myspace/mikuback.jpg");
