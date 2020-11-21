@@ -90,6 +90,12 @@ textarea#commentInput {
 	border: 1px solid var(--MikuDBlueSolid);
 	color: var(--MikuMagentaSolid);
 }
+/* outer of comment box */
+div#form {
+	background-color: var(--MikuDBlueTrans);
+	border: 1px solid var(--MikuMagentaSolid);
+}
+
 /* url box */
 div.url.box {
 	border: none;
@@ -133,6 +139,12 @@ div.box.blurbs > p > div > img {
 	border-radius: 3px;
 	width: unset;
 	width: -moz-available;
+}
+/* fwiends list */
+div.box.fwiends {
+	border: 1px solid var(--MikuMagentaSolid);
+	background-color: var(--MikuDBlueTrans);
+	margin-bottom: 10px;
 }
 
 /*Miku Gender*/
