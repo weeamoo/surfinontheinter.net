@@ -1,4 +1,12 @@
+/* sets width for navigation page */
 div#aboutNavigation {
 	width: 600px;
 	margin: auto;
+}
+
+/*standard text*/
+p#aboutText {
+	color: white;
+	padding-left: 15px;
+	padding-right: 15px;
 }
