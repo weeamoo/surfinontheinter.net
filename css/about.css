@@ -18,6 +18,12 @@ h1#aboutH1 {
 	font-weight: bold;
 }
 
+h2.aboutSiteHeader {
+	color: white;
+	font-size: 35px;
+	text-align: center;
+}
+
 /*standard text*/
 p#aboutText {
 	color: white;
