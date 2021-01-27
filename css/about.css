@@ -24,3 +24,30 @@ p#aboutText {
 	padding-left: 15px;
 	padding-right: 15px;
 }
+
+/* saving this for later
+
+you have to float your image container as follows:
+
+HTML
+
+<div id="container">
+    <div id="floated">...some other random text</div>
+    ...
+    some random text
+    ...
+</div>
+
+CSS
+
+#container{
+    width: 400px;
+    background: yellow;
+}
+#floated{
+    float: left;
+    width: 150px;
+    background: red;
+}
+
+*/
