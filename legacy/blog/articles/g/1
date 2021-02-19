@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<title>Top ten reasons why apple sucks.</title>
+
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+		<meta name="description" content="The best website on the internet">
+
+	</head>
+
+	<body>
+
+		<div id="articleContainer" >
+		
+			<div id="articleHeader">
+
+				<table>
+				
+					<tr>
+
+						<td>
+						
+							<h1 id="articleTitle">Top ten reasons why apple sucks</h1>
+
+						</td>
+
+						<td>
+						
+							<h2 id="articleAuthor">By: Weeamoo</h2>
+
+							<h2 id="articleDate">Modified: 10/14/2019 06:46:31</h2>
+
+						</td>
+					
+					</tr>
+
+				</table>
+
+			</div>
+
+			<div id="articleBody">
+
+				<table>
+				
+					<tr>
+					
+						<td id="ArticleTD" >
+						
+							<img id="articleImgRight" src="/img/apple.png" />
+
+						</td>
+
+						<td id="articleTD" >
+						
+							<ol id="articleOL" >
+								
+								<li>It's overpriced shit that nobody wants</li>
+								
+								<li>The products aren't even that good</li>
+								
+								<li>ios and macos will only run on proprietary  hardware</li>
+								
+								<li>They only care about your privacy when people other than them get involved</li>
+								
+								<li>$1000 for a fucking monitor stand, are you kidding me?</li>
+								
+								<li>Just use linux</li>
+								
+								<li>did you know they bundled ie with macos</li>
+								
+								<li>They leech off of people who don't know what a computer is</li>
+								
+								<li>Steve Jobs is dead</li>
+								
+								<li>I don't like it</li>
+
+							</ol>
+
+						</td>
+
+					</tr>
+
+				</table>
+
+			</div>
+
+		</div>
+
+	</body>
+
+</html>
