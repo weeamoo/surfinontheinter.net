@@ -6,7 +6,7 @@ div#aboutNavigation {
 
 /*sets area for everything to go in */
 div#bodyDiv {
-	width: 600px;
+	width: 50%;
 	margin: auto;
 }
 
@@ -29,6 +29,16 @@ p#aboutText {
 	color: white;
 	padding-left: 15px;
 	padding-right: 15px;
+}
+
+/*left img*/
+img.leftBodyImg {
+	width: 25%;
+}
+
+/*standard p text in about page*/
+p.aboutBodyTxt {
+	color: white;
 }
 
 /* saving this for later
