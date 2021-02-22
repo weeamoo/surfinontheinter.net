@@ -56,6 +56,14 @@ td.aboutMeSocialsTd {
 	width: 20%;
 }
 
+/* footer */
+p#footerText {
+	color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: center;
+}
+
 /* saving this for later
 
 you have to float your image container as follows:
