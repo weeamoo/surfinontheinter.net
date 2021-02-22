@@ -46,6 +46,12 @@ p.aboutBodyTxt {
 	color: white;
 }
 
+/* social links at bottom */
+img.aboutMeSocialsImg {
+	width: 100%;
+	border-radius: 15px;
+}
+
 /* saving this for later
 
 you have to float your image container as follows:
