@@ -68,6 +68,27 @@ p#footerText {
 	text-align: center;
 }
 
+/* fuck links being different colors */
+/* unvisited link */
+a:link {
+  color: #FFFFFF;
+}
+
+/* visited link */
+a:visited {
+  color: #FFFFFF;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FFFFFF;
+}
+
+/* selected link */
+a:active {
+  color: #FFFFFF;
+} 
+
 /* saving this for later
 
 you have to float your image container as follows:
