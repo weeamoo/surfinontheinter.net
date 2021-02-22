@@ -71,22 +71,26 @@ p#footerText {
 /* fuck links being different colors */
 /* unvisited link */
 a:link {
-  color: #FFFFFF;
+  	color: #FFFFFF;
+	text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color: #FFFFFF;
+  	color: #FFFFFF;
+	text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color: #FFFFFF;
+ 	color: #FFFFFF;
+	text-decoration: none;
 }
 
 /* selected link */
 a:active {
-  color: #FFFFFF;
+  	color: #FFFFFF;
+	text-decoration: none;
 } 
 
 /* saving this for later
