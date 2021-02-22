@@ -52,6 +52,10 @@ img.aboutMeSocialsImg {
 	border-radius: 15px;
 }
 
+td.aboutMeSocialsTd {
+	width: 20%;
+}
+
 /* saving this for later
 
 you have to float your image container as follows:
