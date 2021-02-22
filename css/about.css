@@ -33,6 +33,11 @@ p#aboutText {
 
 /*left img*/
 img.leftBodyImg {
+	width: 100%;
+}
+
+/*left img container */
+td.aboutSiteLeftImgTd {
 	width: 25%;
 }
 
