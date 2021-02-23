@@ -45,6 +45,7 @@ td.aboutSiteLeftImgTd {
 /*standard p text in about page*/
 p.aboutBodyTxt {
 	color: white;
+	margin-left: 2%;
 }
 
 /* social links at bottom */
