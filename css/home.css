@@ -1,0 +1,13 @@
+/* color vars */
+:root {
+	--MikuGreySolid: #373b3e;
+	--MikuWhiteSolid: #bec8d1;
+	--MikuLBlueSolid: #86cecb;
+	--MikuDBlueSolid: #137a7f;
+	--MikuMagentaSolid: #e12885;
+	--MikuGreyTrans: rgba(55, 59, 62, 0.9);
+	--MikuWhiteTrans: rgba(190, 200, 209, 0.9);
+	--MikuLBlueTrans: rgba(134, 206, 203, 0.9);
+	--MikuDBlueTrans: rgba(19, 122, 127, 0.9);
+	--MikuMagentaTrans: rgba(225, 40, 88, 0.9);
+}
