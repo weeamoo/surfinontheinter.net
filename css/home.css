@@ -21,7 +21,7 @@ body {
 
 /* navigation menu */
 /* navigation container div */
-div#navigation {
+div#navigationDiv {
 	width: 400px;
 	margin: auto;
 }
@@ -80,6 +80,11 @@ p.siteTxt {
 	color: var(--MikuWhiteSolid);
 	margin-left: 5%;
 	margin-right: 5%;
+}
+/* stops links from looking weird text*/
+a.siteTxt:link, a.siteTxt:visited, a.siteTxt:hover, a.siteTxt:active  {
+	color: var(--MikuMagentaSolid);
+	text-decoration: none;
 }
 
 /* footer text */
