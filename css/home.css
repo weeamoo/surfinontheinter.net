@@ -11,3 +11,61 @@
 	--MikuDBlueTrans: rgba(19, 122, 127, 0.9);
 	--MikuMagentaTrans: rgba(225, 40, 88, 0.9);
 }
+
+/* main body */
+body {
+	background-color: var(--MikuLBlueSolid);
+	color: var(--MikuMagentaSolid);
+}
+/* things are readable now */
+
+/*main title*/
+h1.titleH1 {
+	text-align: center;
+	font-size: 48px;
+}
+
+/*site container tile */
+div.siteDivMain {
+	border-style: solid;
+	border-width: 2px;
+	padding: 0;
+	width: 33%;
+}
+/*title of tile */
+h2.siteTitle {
+	text-align: center;
+	font-weight: bold;
+	font-size: 36px;
+}
+/*img in tile*/
+img.siteImg {
+	width: 85%;
+	margin-left: 7.5%;
+	border-width: 0.5%;
+	border-radius: 10%;
+}
+/* normal text in tile */
+p.siteTxt {
+	color: var(--MikuWhiteSolid);
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+/*positioning each tile by hand*/
+div#subSimDivMain {
+	position: absolute;
+	top: 25%;
+	left: 0px;
+}
+div#spnatiDivMain {
+	position: absolute;
+	font-size: 48px;
+	top: 25%;
+	left: 33%;
+}
+div#subSimBetaDivMain {
+	position: absolute;
+	top: 25%;
+	right: 0px;
+}
