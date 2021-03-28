@@ -51,21 +51,3 @@ p.siteTxt {
 	margin-left: 5%;
 	margin-right: 5%;
 }
-
-/*positioning each tile by hand*/
-div#subSimDivMain {
-	position: absolute;
-	top: 25%;
-	left: 0px;
-}
-div#spnatiDivMain {
-	position: absolute;
-	font-size: 48px;
-	top: 25%;
-	left: 33%;
-}
-div#subSimBetaDivMain {
-	position: absolute;
-	top: 25%;
-	right: 0px;
-}
