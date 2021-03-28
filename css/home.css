@@ -19,6 +19,33 @@ body {
 }
 /* things are readable now */
 
+/* navigation menu */
+/* navigation container div */
+div#navigation {
+	width: 400px;
+	margin: auto;
+}
+/* navigation menu */
+nav {
+	background-color: var(--MikuDBlueSolid);
+	height: 7.5%;
+	margin: auto;
+	text-align: center;
+	font-size: 30px;
+	padding: 5px;
+}
+/* text in menu */
+a.anav {
+	font-size: 24px;
+	color: var(--MikuMagentaSolid);
+	padding: 24px;
+}
+/* stops links from looking weird in nav bar*/
+a.anav:link, a.anav:visited, a.anav:hover, a.anav:active  {
+	color: var(--MikuMagentaSolid);
+	text-decoration: none;
+}
+
 /*main title*/
 h1.titleH1 {
 	text-align: center;
@@ -30,7 +57,10 @@ div.siteDivMain {
 	border-style: solid;
 	border-width: 2px;
 	padding: 0;
-	width: 33%;
+	width: 95%;
+	margin-bottom: 5%;
+	border-radius: 4%;
+	background-color: var(--MikuDBlueSolid);
 }
 /*title of tile */
 h2.siteTitle {
@@ -50,4 +80,9 @@ p.siteTxt {
 	color: var(--MikuWhiteSolid);
 	margin-left: 5%;
 	margin-right: 5%;
+}
+
+/* footer text */
+h1.footerH1 {
+	text-align: center;
 }
