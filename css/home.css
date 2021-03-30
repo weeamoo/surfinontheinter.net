@@ -82,7 +82,11 @@ p.siteTxt {
 	margin-right: 5%;
 }
 /* stops links from looking weird text*/
-a.siteTxt:link, a.siteTxt:visited, a.siteTxt:hover, a.siteTxt:active  {
+p.siteTxt:link, p.siteTxt:visited, p.siteTxt:hover, p.siteTxt:active  {
+	color: var(--MikuMagentaSolid);
+	text-decoration: none;
+}
+h1.siteTitle:link, p.siteTxt:visited, p.siteTxt:hover, p.siteTxt:active {
 	color: var(--MikuMagentaSolid);
 	text-decoration: none;
 }
